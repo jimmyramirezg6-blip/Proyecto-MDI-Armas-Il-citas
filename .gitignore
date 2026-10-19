@@ -1,0 +1,25 @@
+# Entornos virtuales
+env/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs y editores
+.vscode/
+.idea/
+
+# Sistemas operativos
+Thumbs.db
+Desktop.ini
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
